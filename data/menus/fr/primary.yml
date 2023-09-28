@@ -8,15 +8,7 @@ items:
 - title: Équipe
   target: "/equipe/"
   kind: page
-  children:
-  - title: Équipe éditoriale
-    target: "/equipe/equipe-editoriale/"
-    kind: page
-    children:
-    - title: Ceci est un esssai
-      target: "/equipe/equipe-editoriale/ceci-est-un-esssai/"
-      kind: page
-      children: []
+  children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
