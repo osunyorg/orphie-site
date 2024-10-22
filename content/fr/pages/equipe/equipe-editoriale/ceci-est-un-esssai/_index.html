@@ -63,15 +63,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Premier bloc
-    slug: "premier-bloc"
-    position: 1
-    rank: 2
+    slug: >-
+      premier-bloc
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -95,16 +103,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Deuxième Bloc
-    slug: "deuxieme-bloc"
-    position: 2
-    rank: 2
+    slug: >-
+      deuxieme-bloc
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -129,6 +144,8 @@ contents:
     template: embed
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -140,7 +157,6 @@ contents:
 
       transcription: >-
         
-
 
 
 
