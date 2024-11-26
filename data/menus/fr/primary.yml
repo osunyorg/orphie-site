@@ -5,16 +5,20 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 
