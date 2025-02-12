@@ -2,6 +2,11 @@
 
 baseURL: https://orphie-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: b87b11a0-fe7b-4668-b876-5fe07182ef8e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
